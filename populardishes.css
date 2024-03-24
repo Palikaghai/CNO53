@@ -1,0 +1,65 @@
+body{
+    background-color: rgb(241, 220, 185) ;
+    text-align: center;
+}
+.main{
+    font-size: 20px;
+    font-style: italic;
+    font-family:monospace;
+    text-align: center;
+}
+.secmain{
+    font-size: 19px;
+    font-family: cursive;
+    text-align: center;
+}
+.dishes{
+    display: flex;
+    justify-content: space-evenly;
+}
+.dishes img{
+    height: 400px;
+    width: 200px;
+    padding: 5px;
+    border: 2px solid black;
+}
+.dishes a{
+    color: rgb(0, 0, 0);
+    font-size: 17px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}  
+.dishes a:hover{
+    color: rgb(243, 12, 12);
+}
+
+.box1{
+    height: 100%;
+    width: 23%;
+}
+
+.Roundishes{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.Roundishes img{
+    height: 100px;
+    width: 100px;
+    padding: 5px;
+    border-radius: 150px;
+    border: 2px solid black;
+}
+
+.Roundishes a{
+    color: rgb(0, 0, 0);
+    font-size: 17px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}  
+.Roundishes a:hover{
+    color: rgb(243, 12, 12);
+}
+
+.box2{
+    height: 100%;
+    width: 23%;
+}

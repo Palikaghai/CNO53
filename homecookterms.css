@@ -1,0 +1,22 @@
+body{
+    background-image: url(https://media.istockphoto.com/id/475511846/vector/kitchen-seamless-pattern-vector-background.jpg?s=612x612&w=0&k=20&c=inpW5Mc2MFyuc7PsMXVY49OUBU39EXekcCNe8xVeI_k=);
+    padding-top: 50px;
+    text-align: center;
+}
+span{
+    font-size: 23px;
+    text-decoration:underline;
+    color: rgb(5, 1, 1);
+}
+form{
+    border: 3px solid rgb(8, 8, 8);
+    box-sizing: border-box;
+    border-radius: 25px;
+    padding: 10px 20px;
+    height: 450x;
+    width: 400px;
+    background-color: aliceblue;
+    font-size: 17px;
+    margin: 0 auto;
+    text-align: left;
+}

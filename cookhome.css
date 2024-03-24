@@ -1,0 +1,49 @@
+body{
+    background-image:url(https://images.pexels.com/photos/326281/pexels-photo-326281.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500);
+    background-size: cover;
+    background-repeat: no-repeat; 
+    padding-left: 400px;
+    padding-top: 100px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+form{
+    width: 550px;
+    margin: 0 auto;
+   border: 3px solid rgb(16, 16, 15);
+   box-sizing: border-box;
+   padding: 12px 25px;
+   height: 350px;
+   width: 400px;
+   background-image:linear-gradient(rgb(250, 242, 242), rgb(45,68,12));
+}
+label.nm{
+    font-size: 27px;
+}
+label.ch{
+    font-size: 20px;
+}
+input[type=text], input[type=password]{
+    display: inline-block;
+    box-sizing:border-box;
+    width: 85%;
+    height: 30px;
+}
+button{
+    color: rgb(255, 255, 249);
+    background-color: rgb(120, 5, 5);
+    display: block;
+    margin: auto;
+    width: 100px;
+    height: 27px;
+}
+.psw{
+    display: block;
+    text-align: right;
+}
+a{
+    color: rgb(0, 0, 0);
+}
+a:hover{
+    color:rgb(75, 227, 16);
+}
